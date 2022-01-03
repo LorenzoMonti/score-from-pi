@@ -9,7 +9,7 @@ After that, you can generate sheet from pi number based on your favourite key. I
 
 `USAGE: generate_sheet.py filename sheet`
 
-you can choose to generate the score by adding 0 in the last parameter, otherwise 1 if you want the tablature.
+you can choose to generate the sheet by adding 0 in the last parameter, otherwise 1 if you want the tablature.
 
 ### WHAT'S NEEDED
 you only need [Lilypond](https://lilypond.org/) installed on your system to get these scripts to work.
