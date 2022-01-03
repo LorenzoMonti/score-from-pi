@@ -1,6 +1,6 @@
 # SHEET FROM PI
 
-### cosa
+### USAGE
 First of all you need to generate pi numbers, the `generate_pi.py` script will be for you (inside src/ folder).
 
 `USAGE: generate_pi.py ndigits outfile`
