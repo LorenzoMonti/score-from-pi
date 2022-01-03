@@ -18,7 +18,7 @@ if __name__ == '__main__':
 
     xdigits = 10             # Extra digits to reduce trailing error
     ndigits = int(sys.argv[1])
-    outFileName = sys.argv[2]
+    outFileName = "../res/pi/" + sys.argv[2]
 
     # Use Machin's Formula to calculate pi.
     pi = 4 * (4*ArctanDenom(5,ndigits+xdigits) - ArctanDenom(239,ndigits+xdigits))
